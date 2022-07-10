@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a postdoc @University of Helsinki
-- 👀 My work focuses on ecological networks across space and time and the relationship between structure and function
+- 👋 Hi, I’m a community ecologist and postdoc @University of Helsinki
+- 👀 My work focuses on the relationship between ecological network structure and function and ecological networks through space and time and
 - 🌱 Currently I am working on plant-pollinator interactions using an individual-based modeling approach
 - 📫 Get in touch with me here: susanne.kortsch@helsinki.fi
 
