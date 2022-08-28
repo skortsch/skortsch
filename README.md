@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a community and food web ecologist and postdoc @University of Helsinki
 - 👀 My work focuses on the relationship between ecological network structure and function, and the variability of ecological networks through space and time 
-- 🌱 Currently I am working on plant-pollinator interactions using an individual-based modeling approach
+- 🌱 Currently I am working on plant-pollinator interactions using an individual-based modeling approach, and bioenergtic food web modeling of experimental mesosocm communties 
 - 📫 Get in touch with me here: susanne.kortsch@helsinki.fi
 
 <!---
